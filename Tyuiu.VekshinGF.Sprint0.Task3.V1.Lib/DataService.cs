@@ -2,9 +2,9 @@
 {
     public class DataService
     {
-        public static int Sum(int a, int b)
+        public static int Sum(int a, int c)
         {
-            return a + b;
+            return a + c;
         }
     }
 }

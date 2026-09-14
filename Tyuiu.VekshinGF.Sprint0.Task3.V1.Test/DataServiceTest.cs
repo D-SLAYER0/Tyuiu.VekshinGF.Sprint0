@@ -8,7 +8,7 @@ namespace Tyuiu.VekshinGF.Sprint0.Task3.V1.Test
         [TestMethod]
         public void CheckedValid()
         {
-            Assert.AreEqual(10, DataService.Sum(5, 5));
+            Assert.AreEqual(11, DataService.Sum(6, 5));
         }
     }
 }

@@ -6,7 +6,7 @@ namespace Tyuiu.VekshinGF.Sprint0.Task3.V1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DataService.Sum(7, 7));
+            Console.WriteLine(DataService.Sum(8, 8));
             Console.ReadKey();
         }
     }
